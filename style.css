@@ -44,7 +44,7 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: #ff4532;
+  color: red;
   font-size: 50px;
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-weight: bold;
@@ -60,14 +60,14 @@ li{
 	margin: 0;
 	width: 100%;
 	background-color: Gold;
-	border-bottom: 1px solid yellow;
+	border-bottom: 1px solid gold;
 	color: black;
 	display: block;
 }
 
 .menu-item:hover{
 	background-color: rgba(1,0,0,0.9);
-	color: rgba(0,0,0,0.4);
+	color: rgba(1,0,0,0);
 }
 
 
@@ -81,7 +81,7 @@ li{
 	width: auto;
 	height: auto;
 	color: black;
-	background-color: rgba(12,0,0,0.2);
+	background-color: rgba(1,0,0,0);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
 }
