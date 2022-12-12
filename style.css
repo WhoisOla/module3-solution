@@ -37,7 +37,7 @@
 }
 
 .icon-bar{
-	background-color: brown;
+	background-color: blue;
 }
 
 
@@ -59,14 +59,14 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: brown;
-	border-bottom: 1px solid blue;
+	background-color: Gold;
+	border-bottom: 1px solid yellow;
 	color: black;
 	display: block;
 }
 
 .menu-item:hover{
-	background-color: rgba(0,0,0,0.9);
+	background-color: rgba(1,0,0,0.9);
 	color: rgba(0,0,0,0.4);
 }
 
